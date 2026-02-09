@@ -4,7 +4,6 @@
 
 We are a software engineering company focused on building **scalable, high-performance digital products and platforms** that deliver real impact.
 
----
 
 ## 🚀 What We Do
 
@@ -13,7 +12,6 @@ We are a software engineering company focused on building **scalable, high-perfo
 - Web and mobile platforms  
 - Internal tools & automation systems  
 
----
 
 ## 🧠 Our Engineering Focus
 
@@ -22,7 +20,6 @@ We are a software engineering company focused on building **scalable, high-perfo
 - Product-driven development  
 - Systems built to scale  
 
----
 
 ## 🌍 Mission
 
@@ -30,4 +27,4 @@ To design and engineer technology that creates **measurable value**, strong perf
 
 ---
 
-🔗 **Website:** https://apphyp.com
+🔗 **Website:** https://aphyp.com
